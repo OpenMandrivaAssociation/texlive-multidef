@@ -1,6 +1,6 @@
 Name:		texlive-multidef
 Version:	40637
-Release:	1
+Release:	2
 Summary:	Quickly define several similar macros
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/multidef
