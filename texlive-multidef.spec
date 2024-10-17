@@ -3,7 +3,7 @@ Version:	40637
 Release:	2
 Summary:	Quickly define several similar macros
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/multidef
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/multidef
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/multidef.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/multidef.doc.r%{version}.tar.xz
